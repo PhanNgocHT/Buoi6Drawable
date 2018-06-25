@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dacsan"
+        android:top="20dp"
+        android:left="20dp"/>
+    <item
+        android:drawable="@drawable/dacsan"
+        android:bottom="20dp"
+        android:width="60dp"
+        android:height="60dp"
+        android:right="20dp"
+        />
+    <item
+        android:drawable="@drawable/dacsan"
+        android:top="20dp"
+        android:width="60dp"
+        android:height="60dp"
+        android:left="20dp"
+        />
+</layer-list>
